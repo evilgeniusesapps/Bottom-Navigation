@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bottom Navigation</string>
+
+    <string name="stringBottomNavTab1">Tab1</string>
+    <string name="stringBottomNavTab2">Tab2</string>
+    <string name="stringBottomNavTab3">Tab3</string>
 </resources>
